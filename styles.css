@@ -8,7 +8,12 @@ img{
     width: 200px;
 }
 
-p{
+.author{
     text-align: center;
     
+}
+
+div{
+    background-color:darkseagreen;
+    padding: 10px;
 }
